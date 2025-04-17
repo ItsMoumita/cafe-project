@@ -1,0 +1,63 @@
+[
+    {
+      "id": 1,
+      "cover": "https://t3.ftcdn.net/jpg/04/51/12/88/360_F_451128839_vmKOyil368UoXcac46W7aaqelTtLuNFk.jpg",
+      "title": "Why JavaScript Still Dominates Web Development",
+      "authorImg": "https://images.pexels.com/photos/3772623/pexels-photo-3772623.jpeg?cs=srgb&dl=pexels-olly-3772623.jpg&fm=jpg",
+      "author": "Mia Jones",
+      "postedDate": "2025-03-15",
+      "readingTime": "5",
+      "hashtags": ["#JavaScript", "#Frontend", "#WebDevelopment"]
+    },
+    {
+      "id": 2,
+      "cover": "https://c8.alamy.com/comp/2YRG862/web-development-concept-flat-illustration-vector-template-application-design-coding-and-programming-on-a-laptop-with-programming-languages-testing-2YRG862.jpg",
+      "title": "TypeScript: The Future of Scalable Web Apps",
+      "authorImg": "https://images.pexels.com/photos/3772623/pexels-photo-3772623.jpeg?cs=srgb&dl=pexels-olly-3772623.jpg&fm=jpg",
+      "author": "Ryan Smith",
+      "postedDate": "2025-03-18",
+      "readingTime": "6",
+      "hashtags": ["#TypeScript", "#Frontend", "#JavaScript"]
+    },
+    {
+      "id": 3,
+      "cover": "https://www.shutterstock.com/image-photo/python-highlevel-programing-language-application-260nw-1402830182.jpg",
+      "title": "Python for Web: When and Why to Use It",
+      "authorImg": "https://images.pexels.com/photos/3772623/pexels-photo-3772623.jpeg?cs=srgb&dl=pexels-olly-3772623.jpg&fm=jpg",
+      "author": "Lina Chen",
+      "postedDate": "2025-04-02",
+      "readingTime": "7",
+      "hashtags": ["#Python", "#Django", "#Backend", "#WebDev"]
+    },
+    {
+      "id": 4,
+      "cover": "https://blog.logrocket.com/wp-content/uploads/2022/05/node-vs-python-choose-best-technology-develop-backend.png",
+      "title": "Server-Side JavaScript with Node.js",
+      "authorImg": "https://images.pexels.com/photos/3772623/pexels-photo-3772623.jpeg?cs=srgb&dl=pexels-olly-3772623.jpg&fm=jpg",
+      "author": "Daniel Ray",
+      "postedDate": "2025-04-05",
+      "readingTime": "8",
+      "hashtags": ["#NodeJS", "#JavaScript", "#Backend", "#APIs"]
+    },
+    {
+      "id": 5,
+      "cover": "https://ultahost.com/blog/wp-content/uploads/2024/02/Node.js-vs-PHP.png",
+      "title": "PHP Isn’t Dead: Why It Still Matters in 2025",
+      "authorImg": "https://images.pexels.com/photos/3772623/pexels-photo-3772623.jpeg?cs=srgb&dl=pexels-olly-3772623.jpg&fm=jpg",
+      "author": "Karen Ali",
+      "postedDate": "2025-04-10",
+      "readingTime": "4",
+      "hashtags": ["#PHP", "#WebDevelopment", "#Backend"]
+    },
+    {
+      "id": 6,
+      "cover": "https://jelvix.com/wp-content/uploads/2019/11/RoR-vs-Node.js_.jpg",
+      "title": "Fast Prototyping with Ruby on Rails",
+      "authorImg": "https://images.pexels.com/photos/3772623/pexels-photo-3772623.jpeg?cs=srgb&dl=pexels-olly-3772623.jpg&fm=jpg",
+      "author": "Oscar Lim",
+      "postedDate": "2025-04-12",
+      "readingTime": "6",
+      "hashtags": ["#Ruby", "#Rails", "#WebDev", "#Productivity"]
+    }
+  ]
+  
